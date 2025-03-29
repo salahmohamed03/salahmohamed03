@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salah Mohamed</h1>
 <h3 align="center">Biomedical engineering student with a keen interest in software development</h3>
 
-- 🌱 I’m currently learning **ASP.NET**
-
-- 📫 How to reach me **salah.ismael03@eng-st.cu.edu.eg**
+- 📫 How to reach me **salahmohamed.sm2016@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
